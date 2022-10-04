@@ -2,12 +2,16 @@
 ## 1. Affichage d'informations sur la pile TCP/IP locale
 **🌞 Affichez les infos des cartes réseau de votre PC**
 - nom, adresse MAC et adresse IP de l'interface WiFi
-![NameWifi](./pics/NameWifi.png)
-![MacWifi](./pics/MacWifi.png)
-![AdressWifi](./pics/adresseIPWifi.png)
+```
+Description. . . . . . . . . . . . . . : Intel(R) Wi-Fi 6 AX201 160MHz
+Adresse physique . . . . . . . . . . . : BC-6E-E2-D3-54-28
+Adresse IPv4. . . . . . . . . . . . . .: 10.33.16.185
+```
 - nom, adresse MAC et adresse IP de l'interface Ethernet
-![NameEther](./pics/NameEther.png)
-![MacEther](./pics/MacEthernet.png)
+```
+Description. . . . . . . . . . . . . . : Realtek Gaming GbE Family Controller
+Adresse physique . . . . . . . . . . . : 84-69-93-52-2E-D1
+```
 **🌞 Affichez votre gateway**
 
 - utilisez une commande pour connaître l'adresse IP de la passerelle (ou *gateway*) de votre carte WiFi
@@ -25,3 +29,4 @@ En utilisant l'interface graphique de votre OS :
 **🌞 Trouvez comment afficher les informations sur une carte IP (change selon l'OS)**
 
 - trouvez l'IP, la MAC et la gateway pour l'interface WiFi de votre PC
+![Details](./pics/details.png)
