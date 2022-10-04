@@ -8,16 +8,20 @@
 - nom, adresse MAC et adresse IP de l'interface Ethernet
 ![NameEther](./pics/NameEther.png)
 ![MacEther](./pics/MacEthernet.png)
-** Affichez votre gateway**
+**🌞 Affichez votre gateway**
 
 - utilisez une commande pour connaître l'adresse IP de la passerelle (ou *gateway*) de votre carte WiFi
 ```
 Passerelle par défaut. . . . . . . . . : 10.33.19.254
 ```
-** Déterminer la MAC de la passerelle**
+**🌞 Déterminer la MAC de la passerelle**
 
 - à l'aide d'une commande, affichez votre table ARP, et déterminez ainsi l'adresse MAC de la passerelle
 ```
 10.33.19.254          00-c0-e7-e0-04-4e     dynamique
 ```
+En utilisant l'interface graphique de votre OS :  
 
+**🌞 Trouvez comment afficher les informations sur une carte IP (change selon l'OS)**
+
+- trouvez l'IP, la MAC et la gateway pour l'interface WiFi de votre PC
