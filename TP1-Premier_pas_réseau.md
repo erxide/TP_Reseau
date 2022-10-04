@@ -31,4 +31,14 @@ En utilisant l'interface graphique de votre OS :
 - trouvez l'IP, la MAC et la gateway pour l'interface WiFi de votre PC
 ![Details](./pics/DetailsWindows.png)
 
+## 2. Modifications des informations
+### A. Modification d'adresse IP (part 1)
+🌞 Utilisez l'interface graphique de votre OS pour **changer d'adresse IP** :
+- changez l'adresse IP de votre carte WiFi pour une autre
+- ne changez que le dernier octet
+```
+Adresse IPv4. . . . . . . . . . . . . .: 10.33.16.112
+```
+🌞 **Il est possible que vous perdiez l'accès internet.** Que ce soit le cas ou non, expliquez pourquoi c'est possible de perdre son accès internet en faisant cette opération.
+J'ai bien Internet parce que je suis intelligent et j'ai trouvé une adresse ip non attribué.
 
