@@ -14,3 +14,10 @@
 ```
 Passerelle par défaut. . . . . . . . . : 10.33.19.254
 ```
+**🌞 Déterminer la MAC de la passerelle**
+
+- à l'aide d'une commande, affichez votre table ARP, et déterminez ainsi l'adresse MAC de la passerelle
+```
+10.33.19.254          00-c0-e7-e0-04-4e     dynamique
+```
+
