@@ -42,3 +42,7 @@ Adresse IPv4. . . . . . . . . . . . . .: 10.33.16.112
 🌞 **Il est possible que vous perdiez l'accès internet.** Que ce soit le cas ou non, expliquez pourquoi c'est possible de perdre son accès internet en faisant cette opération.
 J'ai bien Internet parce que je suis intelligent et j'ai trouvé une adresse ip non attribué.
 
+# II. Exploration locale en duo
+
+
+
