@@ -8,3 +8,9 @@
 - nom, adresse MAC et adresse IP de l'interface Ethernet
 ![NameEther](./pics/NameEther.png)
 ![MacEther](./pics/MacEthernet.png)
+**🌞 Affichez votre gateway**
+
+- utilisez une commande pour connaître l'adresse IP de la passerelle (ou *gateway*) de votre carte WiFi
+```
+Passerelle par défaut. . . . . . . . . : 10.33.19.254
+```
