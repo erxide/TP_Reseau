@@ -44,5 +44,24 @@ J'ai bien Internet parce que je suis intelligent et j'ai trouvé une adresse ip 
 
 # II. Exploration locale en duo
 
+🌞 **Modifiez l'IP des deux machines pour qu'elles soient dans le même réseau**
 
+🌞 **Vérifier à l'aide d'une commande que votre IP a bien été changée**
+```
+Adresse IPv4. . . . . . . . . . . . . .: 10.10.10.240
+```
+
+🌞 **Vérifier que les deux machines se joignent**
+```Envoi d’une requête 'Ping'  10.10.10.240 avec 32 octets de données :
+Réponse de 10.10.10.110 : octets=32 temps=1 ms TTL=128
+Réponse de 10.10.10.110 : octets=32 temps=2 ms TTL=128
+Réponse de 10.10.10.110 : octets=32 temps=1 ms TTL=128
+Réponse de 10.10.10.110 : octets=32 temps=1 ms TTL=128
+```
+🌞 **Déterminer l'adresse MAC de votre correspondant**
+```
+Interface : 10.33.16.199 --- 0xa
+  Adresse Internet      Adresse physique      Type
+  10.10.10.110          bc-6e-e2-d3-54-28     dynamique
+```
 
