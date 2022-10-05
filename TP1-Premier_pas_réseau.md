@@ -1,3 +1,5 @@
+Voila mon rendu du tp réseau avec mon meilleur gif
+![Details](./pics/issou-risitas.gif)
 # I. Exploration locale en solo
 ## 1. Affichage d'informations sur la pile TCP/IP locale
 **🌞 Affichez les infos des cartes réseau de votre PC**
