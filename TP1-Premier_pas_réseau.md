@@ -1,5 +1,3 @@
-Voila mon rendu du tp réseau avec mon meilleur gif
-![Details](./pics/issou-risitas.gif)
 # I. Exploration locale en solo
 ## 1. Affichage d'informations sur la pile TCP/IP locale
 **🌞 Affichez les infos des cartes réseau de votre PC**
@@ -66,4 +64,5 @@ Interface : 10.33.16.199 --- 0xa
   Adresse Internet      Adresse physique      Type
   10.10.10.110          bc-6e-e2-d3-54-28     dynamique
 ```
+![Details](./pics/issou-risitas.gif)
 
