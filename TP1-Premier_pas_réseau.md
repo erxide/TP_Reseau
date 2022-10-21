@@ -29,6 +29,8 @@ En utilisant l'interface graphique de votre OS :
 **🌞 Trouvez comment afficher les informations sur une carte IP (change selon l'OS)**
 
 - trouvez l'IP, la MAC et la gateway pour l'interface WiFi de votre PC
+
+
 ![Details](./pics/DetailsWindows.png)
 
 ## 2. Modifications des informations
